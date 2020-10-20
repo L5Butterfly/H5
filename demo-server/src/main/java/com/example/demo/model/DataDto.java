@@ -1,4 +1,4 @@
-package com.example.demo3.model;
+package com.example.demo.model;
 
 
 public class DataDto {

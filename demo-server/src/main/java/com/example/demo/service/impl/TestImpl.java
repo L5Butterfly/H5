@@ -1,6 +1,6 @@
-package com.example.demo3.service.impl;
+package com.example.demo.service.impl;
 
-import com.example.demo3.service.ITest;
+import com.example.demo.service.ITest;
 import org.springframework.stereotype.Service;
 
 

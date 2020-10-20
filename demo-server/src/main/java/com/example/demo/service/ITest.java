@@ -1,4 +1,4 @@
-package com.example.demo3.service;
+package com.example.demo.service;
 
 public interface ITest {
 

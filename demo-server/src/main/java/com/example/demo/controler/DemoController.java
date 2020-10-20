@@ -1,7 +1,7 @@
-package com.example.demo3.controler;
+package com.example.demo.controler;
 
-import com.example.demo3.model.DataDto;
-import com.example.demo3.service.impl.TestImpl;
+import com.example.demo.model.DataDto;
+import com.example.demo.service.impl.TestImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
