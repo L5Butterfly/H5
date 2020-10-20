@@ -1,0 +1,21 @@
+{
+  "name": "oxygen",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "egg-bin dev"
+  },
+  "author": "oxygen",
+  "license": "ISC",
+  "dependencies": {
+    "egg": "^2.29.1",
+    "egg-mysql": "^3.0.0",
+    "egg-view-nunjucks": "^2.2.0",
+    "tree-cli": "^0.6.7"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.15.0"
+  }
+}
